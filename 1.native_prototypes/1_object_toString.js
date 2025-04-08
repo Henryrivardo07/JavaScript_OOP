@@ -3,6 +3,7 @@
 
 // Membuat objek kosong
 let obj = {};
+// obj = {} sebenarnya sama seperti obj = new Object().
 
 // Ketika kita console.log(obj), hasilnya adalah [object Object]
 // Ini terjadi karena obj secara default mewarisi dari Object.prototype
